@@ -1,4 +1,4 @@
-# Investigate-Proxy-Log-Parsar
+# Investigate-Proxy-Log-Parser
 A python script that allows for quickly parsing of BlueCoat Proxy Logs and hitting Invesigate API for domains BlueCoat allowed, but that are found to be malicious.
 
 Please generate a new API key from your Investigate console and add the key to the file.
